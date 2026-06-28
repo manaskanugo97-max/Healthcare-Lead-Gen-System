@@ -272,7 +272,8 @@ Future improvements may include:
 
 
 Author
+
 Manas Kanungo
+
 Data Analytics Intern
 
-This project was developed for learning and internship purposes as part of practical training in Data Analytics, Web Scraping, Lead Generation, and Business Intelligence.

@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-
+FINAL_CSV = "data/healthcare_leads_final.csv"
 from config import FINAL_CSV
 
 st.set_page_config(

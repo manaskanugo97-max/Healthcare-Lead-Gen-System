@@ -1,0 +1,9 @@
+pandas
+overpy
+requests
+beautifulsoup4
+ddgs
+duckduckgo-search
+tldextract
+streamlit
+selenium
